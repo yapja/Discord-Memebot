@@ -5,7 +5,7 @@ A Discord bot that grabs the title + image URL of a random post from any subredd
 # Requirements
 
 1. Reddit account
-2. Host (PC, Server, cloud)
+2. Host (PC, server, cloud)
 3. *Manage Messages* permission on the Discord server in order for the bot to automatically delete the command issued by the user
 
 # Usage
