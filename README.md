@@ -21,6 +21,6 @@ A Discord bot that grabs the title + image URL of a random post from any subredd
 
 -!subreddit where *subreddit* is any subreddit you want, i.e, funny, memes, etc
 
-# Immportant Notes
+# Important Notes
 
 1. As of v1, Memebot is a self-hosted Discord bot. Will further update the bot and host it somewhere so you'd just need my invite link
